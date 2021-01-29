@@ -512,7 +512,7 @@ a {
   flex-direction: column;
 }
 
-/* line 12, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_navigation.scss */
+/* line 11, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_navigation.scss */
 .nav-link {
   text-align: center;
   border-radius: 5px;
@@ -522,7 +522,7 @@ a {
   transition: background-color .2s ease-in-out,  color .2s ease-in-out;
 }
 
-/* line 23, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_navigation.scss */
+/* line 21, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_navigation.scss */
 .nav-link:hover {
   color: #fff;
   background-color: #58e1c1;
