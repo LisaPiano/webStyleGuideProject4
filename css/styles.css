@@ -572,8 +572,8 @@ a {
   max-height: 100%;
 }
 
-/* line 14, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_images.scss */
-.img-frame {
+/* line 12, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_images.scss */
+.img-avatar-frame {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -583,8 +583,8 @@ a {
   border: 1px solid #ccc;
 }
 
-/* line 24, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_images.scss */
-.img-logo {
+/* line 22, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_images.scss */
+.img-avatar-logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
