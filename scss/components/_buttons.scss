@@ -20,23 +20,35 @@
   
   .default {
     background-color: $col-11;
-    &:hover {
-        background-color: lighten($col-11, 15%); 
+        &:hover {
+            background-color: lighten($col-11, 15%); 
     }
   }
   
   .error {
     background-color: $col-9;
+        &:hover {
+            background-color: lighten($col-9, 15%); 
+    }
   }
   
   .info {
     background-color: $col-1;
+        &:hover {
+            background-color: lighten($col-1, 15%); 
+    }
   }
   
   .success {
     background-color: $col-10;
+        &:hover {
+            background-color: lighten($col-10, 15%); 
+    }
   }
   
   .warning {
     background-color: $col-2;
+        &:hover {
+            background-color: lighten($col-2, 15%); 
+    }
   }

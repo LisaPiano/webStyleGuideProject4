@@ -472,19 +472,39 @@ a {
   background-color: #e4757a;
 }
 
-/* line 32, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
+/* line 30, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
+.error:hover {
+  background-color: #f1b5b8;
+}
+
+/* line 35, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
 .info {
   background-color: #927bc1;
 }
 
-/* line 36, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
+/* line 37, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
+.info:hover {
+  background-color: #bdafd9;
+}
+
+/* line 42, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
 .success {
   background-color: #63cc82;
 }
 
-/* line 40, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
+/* line 44, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
+.success:hover {
+  background-color: #9ddfb0;
+}
+
+/* line 49, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
 .warning {
   background-color: #fd7856;
+}
+
+/* line 51, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_buttons.scss */
+.warning:hover {
+  background-color: #feb4a2;
 }
 
 /* line 1, ../../../Desktop/TTFEWD/webStyleGuideProject4/scss/components/_forms.scss */
