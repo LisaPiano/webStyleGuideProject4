@@ -11,10 +11,18 @@
     padding: 10px 0;
     text-transform: uppercase;
     border-radius: 5px;
+    transition: 1s; 
+
+    &:hover {
+        color: red; 
+    }
   }
   
   .default {
     background-color: $col-11;
+    &:hover {
+        background-color: lighten($col-11, 15%); 
+    }
   }
   
   .error {
